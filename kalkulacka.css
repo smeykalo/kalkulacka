@@ -1,0 +1,46 @@
+/*  CSS pro homepage uživatele student */
+body {
+    color: rgb(8, 8, 80);
+    font-family: Arial, sans-serif;
+    background: rgb(255, 242, 199);
+    text-wrap: wrap;
+}
+
+h1,h2,h3 {
+    color: rgb(143, 84, 12);
+    text-decoration: underline;
+}
+
+h1.mujnadpis {
+    color: rgb(224, 129, 12);
+    text-decoration: none;
+
+}
+
+p.middle {
+    text-align: center;
+    background: white;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    background: yellowgreen;
+}
+
+#cas {
+    color:darkgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-shadow: lightgray;
+    padding: 1ex;
+}
+
+input {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
